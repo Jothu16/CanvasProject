@@ -26,7 +26,7 @@
 </template>
 
 <script>
-import vueJoiValidation, { Joi } from 'vue-joi-validation';
+// import vueJoiValidation, { Joi } from 'vue-joi-validation';
 
 export default {
   name: 'Signup',
